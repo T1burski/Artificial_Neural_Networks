@@ -43,13 +43,8 @@ On the left, the scatter plot showing the distribution without regularization:
 
 ![image](https://user-images.githubusercontent.com/100734219/209737613-b94e558c-4b87-4ede-b746-d8238194095c.png)
 
-We can see a slight improve!
+We can see a slight improvement!
 
 Please, any questions feel free to contact me!
-
-
-
-
-
 
 
